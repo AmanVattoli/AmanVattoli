@@ -1,5 +1,3 @@
-![Header](./github-header-image.png)
-
 ## 📖 About Me  
 
 I'm a CS graduate from TMU with a strong passion for **data analytics, cloud computing, automation and machine learning**. I enjoy working with large datasets, building cloud-based solutions, and leveraging machine learning to drive insights.  
