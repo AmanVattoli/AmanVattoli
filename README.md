@@ -1,6 +1,6 @@
 ## 📖 About Me  
 
-I'm a CS graduate from TMU with a strong passion for **data analytics, cloud computing, automation and machine learning**. I enjoy working with large datasets, building cloud-based solutions, and leveraging machine learning to drive insights.  
+I build end-to-end data pipelines and develop interactive dashboards that drive meaningful decisions and unlock hidden patterns in complex datasets.
 
 You can find all my projects here on GitHub, or you can also check out my portfolio **[here](https://amanvattoli.github.io/portfolio/)**.  
 
