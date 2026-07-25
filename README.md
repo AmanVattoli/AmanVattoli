@@ -1,7 +1,3 @@
-## 📖 About Me  
-
-I build end-to-end data pipelines and develop interactive dashboards that drive meaningful decisions and unlock hidden patterns in complex datasets.
-
 You can find all my projects here on GitHub, or you can also check out my portfolio **[here](https://amanvattoli.github.io/portfolio/)**.  
 
 ## 🚀 What I Work With  
